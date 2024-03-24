@@ -1,0 +1,9 @@
+
+{
+    "language": "Français",
+    "helloWorld": "Bonjour le monde",
+    "multiLanguage": "Ceci est un fichier pour la langue française",
+    "hello": "Bonjour {username}"
+}
+
+
