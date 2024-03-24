@@ -56,8 +56,6 @@ class _MyAppState extends  ConsumerState<MyApp> {
             Text('Chnage the color of the text when in dark mode', 
             // style: Styles.themeData(themeChangeProvider.darkTheme, context),
             ),
-
-          
           ],
         ),
       ),
