@@ -1,0 +1,11 @@
+
+{   
+    "language": "العربية",
+    "helloWorld": "مرحبا بالعالم",
+    "arabic": "العربية",
+    "multiLanguage": "هذا ملف لغة للغة العربية",
+    "hello": "مرحبا {username}"
+
+}
+
+

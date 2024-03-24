@@ -1,0 +1,6 @@
+{
+    "language": "Cymraeg",
+    "helloWorld": "Helo Byd",
+    "multiLanguage": "Mae hyn yn ffeil arb ar gyfer iaith Cymraeg",
+    "hello": "Helo {username}"
+}

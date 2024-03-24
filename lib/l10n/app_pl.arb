@@ -1,0 +1,8 @@
+
+{
+    "language": "Polski",
+    "helloWorld": "Witaj świecie",
+    "polish": "Polski",
+    "multiLanguage": "To jest plik językowy dla języka polskiego",
+    "hello": "Witaj {username}"
+}

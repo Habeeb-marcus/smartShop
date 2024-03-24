@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:smart_shop/l10n/l10n.dart';
 import 'package:smart_shop/core/alerts/easy_loading_config.dart';
 import 'package:smart_shop/core/utility/darkmode/dark_theme_provider.dart';
 import 'package:smart_shop/presentation/themes/theme_styles.dart';
@@ -63,6 +64,7 @@ class _MyHomePageState extends ConsumerState<MyHomePage>  with WidgetsBindingObs
       theme: Styles.themeData(provider.darkTheme, context),
       home: const MyApp(title: 'Flutter Demo Home Page'),
       builder: EasyLoading.init(),
+      supportedLocales: L10n.all,
     );
 
   }
